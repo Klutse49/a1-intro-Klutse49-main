@@ -1,0 +1,61 @@
+<!--
+    Every file submitted in this course needs to be documented,
+    points will be designated towards documentation, don't loss
+    points for not documenting your work.  Provide general 
+    documentation about you, the course and assignment
+    
+    [Cyril Klutse]
+    [Rowan University]
+    Course: [CS 04305 1]
+    Assignment: [A1]
+    Due Date: [1/31/2024]
+    Instructor: [Marquise Pullen]
+
+    Description: [Using Git and VS code ]
+
+    Honor Pledge: I pledge that this work is entirely my own
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to CS04305</title>
+</head>
+
+<body>
+    <h1>Welcome to CS04305</h1>
+    <p>
+       Cyril Klutse
+        <!-- Cyril Klutse -->
+    </p>
+    <p>
+        I love to play and watch soccer 
+        <!-- I love to play and watch soccer  -->
+    </p>
+    <p>
+         A picture of myself is displayed below
+
+        
+      <figure>
+        <picture>
+          <source media="(min-width: 768px)" srcset="images/cyril-2-640w.jpg">
+          <img src="img/portfolio/cyril-2-640w.jpg" alt="Arms Spread Wide.">
+        </picture>
+        <figcaption>On top of the World!</figcaption>
+      </figure>
+
+      
+      <div class="copyright py-4 text-center text-white">
+        <div class="container">
+          <small>Copyright &copy; Cyril Klutse 2024</small>
+        </div>
+      </div>
+
+         </p>
+    </p>
+</body>
+
+</html>
